@@ -2,9 +2,8 @@ import tkinter as tk
 from tkinter import messagebox
 import requests
 
-# Site para obter a API: app.freecurrencyapi.com
 # Autorização da API:
-API_KEY = 'fca_live_ePFvqJfxkqaQaABh1wZUr23d489Yyl4eQeK2FDfh'
+API_KEY = 'SUA API_KEY' # Obtenha a chave aqui: https://app.freecurrencyapi.com/
 
 # Obtendo a taxa de conversão pela API:
 def taxa_conversao(base, path):
