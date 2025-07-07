@@ -10,7 +10,7 @@
 - Conversão entre qualquer par de moedas (ex: BRL → USD, EUR → JPY)
 - Taxas de câmbio atualizadas
 - Validação de campos
-- 
+
 ---
 
 ## Interface
